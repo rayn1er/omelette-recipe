@@ -132,7 +132,7 @@ body {
     border-bottom: 1px solid #99617A;
 }
 
-@media screen and (width < 720px) {
+@media screen and (width < 768px) {
     body {
         background-color: white;
         width: 100%;
